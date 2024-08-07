@@ -1,0 +1,20 @@
+a{
+    text-decoration: none; color: black;
+    font-size: medium;
+    font-family: Georgia;
+}
+a:hover{
+    cursor: pointer;
+    color: fuchsia; 
+}
+
+#live-vid{
+    margin-top : -30px; 
+}
+
+ol li{
+    padding: 8px; 
+}
+#heading-2{
+    font-size: 20px;
+}
